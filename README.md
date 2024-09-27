@@ -12,3 +12,7 @@
 git clone https://github.com/jamaal001/Advanced-password-manager
 
 cd Advanced-password-manager ```
+
+ **usage**
+
+
